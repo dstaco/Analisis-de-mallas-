@@ -1,4 +1,5 @@
 PRÁCTICA No. 2 ANÁLISIS DE MALLAS
+
 Universidad de las Fuerzas Armadas "ESPE"
 
 Carrera: Mecatrónica
